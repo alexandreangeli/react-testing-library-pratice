@@ -23,11 +23,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `yarn cy:open`
 
 Launches the Cypress test runner.<br />
+The project must be running at http://localhost:3000/.<br />
 See the section about [cypress command line](https://docs.cypress.io/guides/guides/command-line) for more information.
 
 ### `yarn cy:run`
 
 Runs Cypress tests to completion. By default, cypress run will run all tests headlessly.<br />
+The project must be running at http://localhost:3000/.<br />
 See the section about [cypress command line](https://docs.cypress.io/guides/guides/command-line) for more information.
 
 ### `yarn build`
