@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useCallback } from "react";
 import Form from "./components/Form";
 import TodoList from "./components/TodoList";
 import FilterList from "./components/FilterList";
