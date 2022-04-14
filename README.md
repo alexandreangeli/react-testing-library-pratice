@@ -1,7 +1,7 @@
 # rtl-cypress-tests
 
 This project was created for doing the pratice of automated tests using React Testing Library and Cypress.io.
-It is a clone of the MDN project [todo-react](https://github.com/facebook/create-react-app), with a few tweaks made by me.
+It is a clone of the MDN project [todo-react](https://github.com/facebook/create-react-app), with a few tweaks made by me, like persisting the data inside the user Local Storage.
 
 ## Available Scripts
 
